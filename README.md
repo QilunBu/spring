@@ -5,6 +5,9 @@ spring is a light weight  IOC and AOP framework.
  spring aop, orm, dao, web mvc, web, context
  IOC:
  
+ dependency injection:
+ 
+ 
 
 
 
